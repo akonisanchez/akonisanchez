@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### My Stats:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akonisanchez&theme=swift)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akonisanchez&layout=compact&theme=swift)
+
+
+
 <!--
 **akonisanchez/akonisanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
