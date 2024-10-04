@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm AJ! 👋
+</div>
+<div id="social-badges" align="center">
+  <a href="https://www.linkedin.com/in/sanchezakoni"/><img src="https://img.shields.io/badge/LinkedIIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></a>
 
 ### My Stats:
 
