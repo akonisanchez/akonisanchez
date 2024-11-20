@@ -5,7 +5,7 @@
 
 ### My Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akonisanchez&theme=swift)
+![GitHub Streak](https://streak-stats.demolab.com/?user=akonisanchez&theme=swift)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akonisanchez&layout=compact&theme=swift)
 
