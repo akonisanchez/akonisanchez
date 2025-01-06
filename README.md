@@ -1,7 +1,7 @@
 ## Hi there, I'm AJ! 👋
 
 🌱 **Impact-Driven Professional | Aspiring Developer**  
-With a background in ESG and impact investing advisory, I’ve honed my skills in aligning businesses with sustainability goals and creating meaningful change. My journey has taken me through the world of software investing, and now, as a Customer Success Account Director, I thrive at the intersection of technology and people.
+With a background in ESG and impact investing advisory, I’ve honed my skills in aligning businesses with sustainability goals and creating meaningful change. My journey has taken me through the world of software investing, and now, as an Account Director of Customer Success, I thrive at the intersection of technology and people.
 
 💻 **New Horizons in Tech**  
 I’m diving into the world of programming, building projects with Python, Flask, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference.
