@@ -1,4 +1,7 @@
 ## Hi there, I'm AJ! 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Coding Grind Don't Stop!" width="600"/>
+</div>
 
 🌱 **Impact-Driven Professional | Aspiring Developer**  
 With a background in ESG and impact investing advisory, I’ve honed my skills in aligning businesses with sustainability goals and creating meaningful change. My journey has taken me through the world of software investing, and now, as an Account Director of Customer Success, I thrive at the intersection of technology and people.
@@ -16,9 +19,6 @@ Let’s build something great together! ✨
 </div>
 
 ### My Stats:
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=akonisanchez&theme=swift)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akonisanchez&layout=compact&theme=swift)
 
 <!--
