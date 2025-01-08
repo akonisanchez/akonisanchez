@@ -18,6 +18,17 @@ Let’s build something great together! ✨
   <a href="https://www.linkedin.com/in/sanchezakoni"/><img src="https://img.shields.io/badge/LinkedIIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></a>
 </div>
 
+---
+<div id="technologies" align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
+</div>
+
+---
 ### My Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akonisanchez&layout=compact&theme=swift)
 
