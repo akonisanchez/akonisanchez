@@ -7,7 +7,7 @@
 With a background in ESG and impact investing advisory, I’ve honed my skills in aligning businesses with sustainability goals and creating meaningful change. My journey has taken me through the world of software investing, and now, as an Account Director of Customer Success, I thrive at the intersection of technology and people.
 
 💻 **New Horizons in Tech**  
-I’m diving into the world of programming, building projects with Python, Flask, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference.
+I’m diving into the world of programming, building projects with Python, Flask, Ruby, Javascript, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference. There's an infinite amount of languages and frameworks and I strive to upskill myself in any technology that is required of me!
 
 🚀 **Why I’m Here**  
 This space is where I explore, learn, and share. Whether it's crafting apps or contributing to impactful projects, I’m excited to connect, collaborate, and grow.
