@@ -4,7 +4,7 @@
 </div>
 
 🌱 **Impact-Driven Professional | Aspiring Developer**  
-With a background in ESG and impact investing advisory, I’ve honed my skills in aligning businesses with sustainability goals and creating meaningful change. My journey has taken me through the world of software investing, and now, as an Account Director of Customer Success, I thrive at the intersection of technology and people.
+With a background in ESG and impact investing advisory, I’ve honed my skills in aligning businesses with sustainability goals and creating meaningful change. My journey has taken me through the world of technology M&A advisory, and now, as an Account Director of Customer Success, I thrive at the intersection of technology and people.
 
 💻 **New Horizons in Tech**  
 I’m diving into the world of programming, building projects with Python, Flask, Ruby, Javascript, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference. There's an infinite amount of languages and frameworks and I strive to upskill myself in any technology that is required of me!
