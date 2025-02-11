@@ -22,6 +22,13 @@ I worked with major tech investors, helping them understand how their software i
 💻 **New Horizons in Tech**  
 I’m diving into the world of programming, building projects with Python, Flask, Ruby, Javascript, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference. There's an infinite amount of languages and frameworks and I strive to upskill myself in any technology that is required of me!
 
+<details>
+<summary>💡 Why Software Engineering? </summary>
+
+While doing tech M&A due diligence, I'd spend hours poring over technical documentation trying to understand how things worked under the hood. One day, instead of just reading about APIs, I decided to try building something myself using Python. That first small project sparked something - I found myself exploring ways to automate tasks at work and learning web development in my free time. What started as curiosity turned into a real passion for building solutions that create meaningful user experiences and solve real-world problems.
+
+</details>
+
 🚀 **Why I’m Here**  
 This space is where I explore, learn, and share. Whether it's crafting apps or contributing to impactful projects, I’m excited to connect, collaborate, and grow.
 
