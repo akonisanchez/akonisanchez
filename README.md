@@ -6,6 +6,19 @@
 🌱 **Impact-Driven Professional | Aspiring Developer**  
 With a background in ESG and impact investing advisory, I’ve honed my skills in aligning businesses with sustainability goals and creating meaningful change. My journey has taken me through the world of technology M&A, and now, as an Account Director of Customer Success, I thrive at the intersection of technology and people.
 
+<details>
+<summary>🤔 Curious about my ESG background?</summary>
+
+Ever wondered how companies evaluate the social and environmental impact of their software investments? That's where I came in! As an ESG (Environmental, Social, and Governance) advisor, I helped investment firms assess software companies beyond just their financial metrics. Here's what that looked like:
+
+- **Environmental**: Evaluating a company's carbon footprint, energy efficiency practices, and environmental policies
+- **Social**: Analyzing workplace culture, employee benefits, diversity initiatives, and remote work policies
+- **Governance**: Reviewing business ethics, data privacy practices, and corporate responsibility
+
+I worked with major tech investors, helping them understand how their software investments could be both profitable AND responsible. This experience taught me how technology can drive positive change while building successful businesses.
+
+</details>
+
 💻 **New Horizons in Tech**  
 I’m diving into the world of programming, building projects with Python, Flask, Ruby, Javascript, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference. There's an infinite amount of languages and frameworks and I strive to upskill myself in any technology that is required of me!
 
