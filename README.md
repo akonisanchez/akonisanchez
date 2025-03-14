@@ -9,7 +9,7 @@ With a background in ESG and impact investing advisory, I’ve honed my skills i
 <details>
 <summary>🤔 Curious about my ESG background?</summary>
 
-Ever wondered how companies evaluate the social and environmental impact of their software investments? That's where I came in! As an ESG (Environmental, Social, and Governance) advisor, I helped investment firms assess software companies beyond just their financial metrics. Here's what that looked like:
+Ever wondered how investment funds evaluate the social and environmental impact of their software investments? That's where I came in! As an ESG (Environmental, Social, and Governance) advisor, I helped investment firms assess software companies beyond just their financial metrics. Here's what that looked like:
 
 - **Environmental**: Evaluating a company's carbon footprint, energy efficiency practices, and environmental policies
 - **Social**: Analyzing workplace culture, employee benefits, diversity initiatives, and remote work policies
