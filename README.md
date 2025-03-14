@@ -20,7 +20,7 @@ I worked with major tech investors, helping them understand how their software i
 </details>
 
 💻 **New Horizons in Tech**  
-I’m diving into the world of programming, building projects with Python, Flask, Ruby, Javascript, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference. There's an infinite amount of languages and frameworks and I strive to upskill myself in any technology that is required of me!
+I’m diving into the world of programming, building projects with Python, Flask, Ruby, Javascript, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference. There's a seemingly infinite amount of coding languages and frameworks that exist, and something new to learn everyday. I strive to upskill myself in any technology that is required of me to become a well-rounded software engineer!
 
 <details>
 <summary>💡 Why Software Engineering? </summary>
