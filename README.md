@@ -4,7 +4,7 @@
 </div>
 
 🌱 **Impact-Driven Professional | Aspiring Developer**  
-With a background in ESG and impact investing advisory, I’ve honed my skills in aligning businesses with sustainability goals and creating meaningful change. My journey has taken me through the world of technology M&A, and now, as an Account Director of Customer Success, I thrive at the intersection of technology and people.
+With a background in ESG and impact investing advisory, I’ve honed my skills in aligning businesses with sustainability goals and creating meaningful change. My journey has taken me through the world of technology M&A, and now, as a Deal Origination Manager, I thrive at the intersection of technology and people.
 
 <details>
 <summary>🤔 Curious about my ESG background?</summary>
@@ -20,14 +20,7 @@ I worked with major tech investors, helping them understand how their software i
 </details>
 
 💻 **New Horizons in Tech**  
-I’m diving into the world of programming, building projects with Python, Flask, Ruby, Javascript, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference. There's a seemingly infinite amount of coding languages and frameworks that exist, and something new to learn everyday. I strive to upskill myself in any technology that is required of me to become a well-rounded software engineer!
-
-<details>
-<summary>💡 Why Software Engineering? </summary>
-
-While doing tech M&A due diligence, I'd spend hours poring over technical documentation trying to understand how things worked under the hood. One day, instead of just reading about APIs, I decided to try building something myself using Python. That first small project sparked something - I found myself exploring ways to automate tasks at work and learning web development in my free time. What started as curiosity turned into a real passion for building solutions that create meaningful user experiences and solve real-world problems.
-
-</details>
+I’m diving into the world of programming, building projects with Python, Flask, Ruby, Javascript, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference. There's a seemingly infinite amount of coding languages and frameworks that exist, and something new to learn everyday.
 
 🚀 **Why I’m Here**  
 This space is where I explore, learn, and share. Whether it's crafting apps or contributing to impactful projects, I’m excited to connect, collaborate, and grow.
