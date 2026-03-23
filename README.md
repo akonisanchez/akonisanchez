@@ -4,7 +4,7 @@
 </div>
 
 🌱 **Impact-Driven Professional | Aspiring Developer**  
-With a background in ESG and impact investing advisory, I’ve honed my skills in aligning businesses with sustainability goals and creating meaningful change. My journey has taken me through the world of technology M&A, and now, as a Deal Origination Manager, I thrive at the intersection of technology and people.
+With a background in ESG and impact investing advisory, I’ve honed my skills in aligning businesses with sustainability goals and creating meaningful change. I thrive at the intersection of technology and people.
 
 <details>
 <summary>🤔 Curious about my ESG background?</summary>
@@ -20,7 +20,7 @@ I worked with major tech investors, helping them understand how their software i
 </details>
 
 💻 **New Horizons in Tech**  
-I’m diving into the world of programming, building projects with Python, Flask, Ruby, Javascript, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference. There's a seemingly infinite amount of coding languages and frameworks that exist, and something new to learn everyday.
+I’m diving into the world of programming, building projects with Python, Flask,  Javascript, HTML, and CSS. I’m passionate about using tech to streamline processes, solve complex problems, and create tools that make a difference. There's a seemingly infinite amount of coding languages and frameworks that exist, and something new to learn everyday.
 
 🚀 **Why I’m Here**  
 This space is where I explore, learn, and share. Whether it's crafting apps or contributing to impactful projects, I’m excited to connect, collaborate, and grow.
